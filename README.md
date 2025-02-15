@@ -22,4 +22,9 @@ This project, titled "Real-Time Lane and Vehicle Detection Using OpenCV and Open
 Below are some screenshots from the processed video (`video1.MTS`), showcasing the detection of lanes and vehicles:
 
 <!-- Add your screenshots here -->
-
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/lane_limits_detection.png" alt="lane_limits_detection"/>
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/diff_lane_detection_1.png" alt="diff_lane_detection_1"/>
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/diff_lane_detection_2.png" alt="diff_lane_detection_2"/>
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/same_lane_detection_1.png" alt="same_lane_detection_1"/>
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/same_lane_detection_2.png" alt="same_lane_detection_2"/>
+<img src="https://github.com/danielftsilva/RT-Lane-Vehicle-Detection/blob/main/Results/same_lane_detection_3.png" alt="same_lane_detection_3"/>
